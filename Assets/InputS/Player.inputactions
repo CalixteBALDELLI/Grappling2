@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Player",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "39a5da51-f1ee-4956-8d9f-8e3cb22c1765",
+            "actions": [
+                {
+                    "name": "Swing",
+                    "type": "Button",
+                    "id": "674f779a-de5e-4a7d-91c0-09f74f441513",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8e55979a-bb22-4fbe-8dbc-a0d2e4f2c7ef",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Swing",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
